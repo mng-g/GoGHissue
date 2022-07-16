@@ -1,4 +1,4 @@
-![GitHub Logo](https://www.logo.wine/a/logo/Go_(programming_language)/Go_(programming_language)-Logo.wine.svg)
+<img src="https://raw.githubusercontent.com/mng-g/GoGHissue/b19648a5f837b39f4daacb04b01fcd0b9202b9fd/go-logo.svg" width="250" height="250">
 
 # GoGHIssue Tool
 
